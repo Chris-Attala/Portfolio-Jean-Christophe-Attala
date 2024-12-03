@@ -30,5 +30,8 @@ Bienvenue dans le projet data Aéroworld ! Ce dépôt regroupe toutes les ressou
 6. **Cahier des charges**  
    - Document PowerPoint décrivant les spécifications fonctionnelles et techniques définies pour le projet.  
    Fichier : `Cahier des charges Aéroworld.pptx`
-
+7. **Dashboard Profil et Compétences**
+   - Format : `.pbix` 
+   - Téléchargez le fichier pour une exploration locale
+   Fichier : `Tableau_de_bord_Profil_Compétences.pbix`
 ---
