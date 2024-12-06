@@ -1,0 +1,81 @@
+Avion,Année,Domaine d'activité,Sous-activité,Coût ($),Jours prévus,Durée (jours),Délai respecté ?,Statut,Responsable,Commentaire,Recettes ($)
+Avion-1,2020,Maintenance,Inspection,15000,9,10,Non,Terminé,Technicien A,Tâche complétée avec succès.,30000
+Avion-1,2020,Développement,Prototype avancé,180000,16,16,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,75000
+Avion-1,2020,Fabrication,Assemblage,95000,12,11,Oui,Terminé,Technicien B,Tâche complétée avec succès.,500000
+Avion-1,2020,Conception,Analyse préliminaire,13000,6,6,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,150000
+Avion-2,2021,Maintenance,Réparations,265000,28,29,Non,Terminé,Technicien C,Tâche complétée avec succès.,45000
+Avion-2,2021,Développement,Simulation,155000,13,13,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,100000
+Avion-2,2021,Fabrication,Contrôle final,120000,9,9,Oui,Terminé,Technicien A,Tâche complétée avec succès.,600000
+Avion-2,2021,Conception,Validation de concept,17000,8,8,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,120000
+Avion-3,2022,Maintenance,Entretien de routine,5000,3,3,Oui,Terminé,Technicien B,Tâche complétée avec succès.,25000
+Avion-3,2022,Développement,Tests structurels,145000,14,15,Non,Terminé,Ingénieur D,Tâche complétée avec succès.,85000
+Avion-3,2022,Fabrication,Test qualité,88000,12,12,Oui,Terminé,Technicien A,Tâche complétée avec succès.,450000
+Avion-3,2022,Conception,Étude de faisabilité,14000,5,5,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,110000
+Avion-4,2023,Maintenance,Inspection,19000,6,7,Non,Terminé,Technicien C,Finalisé en temps voulu.,40000
+Avion-4,2023,Développement,Prototype avancé,195000,19,19,Oui,Terminé,Ingénieur A,Finalisé en temps voulu.,95000
+Avion-4,2023,Fabrication,Test qualité,150000,13,13,Oui,Terminé,Technicien B,Finalisé en temps voulu.,750000
+Avion-4,2023,Conception,Étude de faisabilité,18000,7,7,Oui,Terminé,Ingénieur C,Finalisé en temps voulu.,130000
+Avion-5,2024,Maintenance,Réparations,270000,25,26,Non,En cours,Technicien A,Tâche en cours de finalisation.,50000
+Avion-5,2024,Développement,Simulation,175000,17,17,Oui,En cours,Ingénieur B,Tâche en cours de finalisation.,120000
+Avion-5,2024,Fabrication,Contrôle final,135000,10,10,Oui,Planifié,Technicien C,Tâche programmée dans le planning.,650000
+Avion-5,2024,Conception,Validation de concept,19000,8,8,Oui,Planifié,Ingénieur D,Tâche programmée dans le planning.,140000
+Avion-6,2020,Maintenance,Entretien de routine,4800,2,2,Oui,Terminé,Technicien A,Tâche complétée avec succès.,20000
+Avion-6,2020,Développement,Tests structurels,125000,14,14,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,70000
+Avion-6,2020,Fabrication,Assemblage,77000,11,10,Oui,Terminé,Technicien B,Tâche complétée avec succès.,400000
+Avion-6,2020,Conception,Analyse préliminaire,15000,6,6,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,125000
+Avion-7,2021,Maintenance,Inspection,26000,9,9,Oui,Terminé,Technicien C,Tâche complétée avec succès.,45000
+Avion-7,2021,Développement,Prototype avancé,165000,16,15,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,80000
+Avion-7,2021,Fabrication,Test qualité,98000,11,11,Oui,Terminé,Technicien A,Tâche complétée avec succès.,550000
+Avion-7,2021,Conception,Étude de faisabilité,16000,5,5,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,135000
+Avion-8,2022,Maintenance,Réparations,230000,22,23,Non,Terminé,Technicien B,Tâche complétée avec succès.,48000
+Avion-8,2022,Développement,Simulation,145000,12,12,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,90000
+Avion-8,2022,Fabrication,Contrôle final,98000,8,8,Oui,Terminé,Technicien A,Tâche complétée avec succès.,520000
+Avion-8,2022,Conception,Validation de concept,18000,6,6,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,115000
+Avion-9,2023,Maintenance,Inspection,22000,7,8,Non,Terminé,Technicien C,Finalisé en temps voulu.,40000
+Avion-9,2023,Développement,Prototype avancé,185000,18,18,Oui,Terminé,Ingénieur A,Finalisé en temps voulu.,105000
+Avion-9,2023,Fabrication,Assemblage,125000,14,14,Oui,Terminé,Technicien B,Finalisé en temps voulu.,680000
+Avion-9,2023,Conception,Validation de concept,20000,8,8,Oui,Terminé,Ingénieur C,Finalisé en temps voulu.,130000
+Avion-10,2024,Maintenance,Entretien de routine,6200,5,5,Oui,En cours,Technicien A,Tâche en cours de finalisation.,22000
+Avion-10,2024,Développement,Tests structurels,135000,16,16,Oui,En cours,Ingénieur B,Tâche en cours de finalisation.,75000
+Avion-10,2024,Fabrication,Test qualité,140000,9,9,Oui,Planifié,Technicien C,Tâche programmée dans le planning.,590000
+Avion-10,2024,Conception,Analyse préliminaire,20000,8,8,Oui,Planifié,Ingénieur D,Tâche programmée dans le planning.,145000
+Avion-11,2020,Maintenance,Inspection,15500,8,8,Oui,Terminé,Technicien A,Tâche complétée avec succès.,32000
+Avion-11,2020,Développement,Prototype avancé,185000,16,16,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,77000
+Avion-11,2020,Fabrication,Assemblage,98000,12,12,Oui,Terminé,Technicien B,Tâche complétée avec succès.,510000
+Avion-11,2020,Conception,Analyse préliminaire,14000,6,6,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,155000
+Avion-12,2021,Maintenance,Réparations,270000,28,29,Non,Terminé,Technicien C,Tâche complétée avec succès.,48000
+Avion-12,2021,Développement,Simulation,160000,14,14,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,115000
+Avion-12,2021,Fabrication,Contrôle final,130000,10,10,Oui,Terminé,Technicien A,Tâche complétée avec succès.,620000
+Avion-12,2021,Conception,Validation de concept,18000,7,7,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,145000
+Avion-13,2022,Maintenance,Entretien de routine,5500,4,4,Oui,Terminé,Technicien B,Tâche complétée avec succès.,26000
+Avion-13,2022,Développement,Tests structurels,150000,15,15,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,87000
+Avion-13,2022,Fabrication,Test qualité,92000,12,12,Oui,Terminé,Technicien A,Tâche complétée avec succès.,470000
+Avion-13,2022,Conception,Étude de faisabilité,15000,5,5,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,120000
+Avion-14,2023,Maintenance,Inspection,19500,7,7,Oui,Terminé,Technicien C,Finalisé en temps voulu.,42000
+Avion-14,2023,Développement,Prototype avancé,200000,18,18,Oui,Terminé,Ingénieur A,Finalisé en temps voulu.,97000
+Avion-14,2023,Fabrication,Test qualité,155000,14,14,Oui,Terminé,Technicien B,Finalisé en temps voulu.,770000
+Avion-14,2023,Conception,Étude de faisabilité,19000,7,7,Oui,Terminé,Ingénieur C,Finalisé en temps voulu.,135000
+Avion-15,2024,Maintenance,Réparations,275000,25,26,Non,En cours,Technicien A,Tâche en cours de finalisation.,52000
+Avion-15,2024,Développement,Simulation,180000,17,17,Oui,En cours,Ingénieur B,Tâche en cours de finalisation.,125000
+Avion-15,2024,Fabrication,Contrôle final,140000,10,10,Oui,Planifié,Technicien C,Tâche programmée dans le planning.,670000
+Avion-15,2024,Conception,Validation de concept,20000,8,8,Oui,Planifié,Ingénieur D,Tâche programmée dans le planning.,150000
+Avion-16,2020,Maintenance,Entretien de routine,5000,2,2,Oui,Terminé,Technicien A,Tâche complétée avec succès.,21000
+Avion-16,2020,Développement,Tests structurels,130000,14,14,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,72000
+Avion-16,2020,Fabrication,Assemblage,79000,11,10,Oui,Terminé,Technicien B,Tâche complétée avec succès.,420000
+Avion-16,2020,Conception,Analyse préliminaire,16000,6,6,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,130000
+Avion-17,2021,Maintenance,Inspection,26500,9,9,Oui,Terminé,Technicien C,Tâche complétée avec succès.,46000
+Avion-17,2021,Développement,Prototype avancé,170000,16,15,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,83000
+Avion-17,2021,Fabrication,Test qualité,102000,11,11,Oui,Terminé,Technicien A,Tâche complétée avec succès.,580000
+Avion-17,2021,Conception,Étude de faisabilité,17000,5,5,Oui,Terminé,Ingénieur C,Tâche complétée avec succès.,140000
+Avion-18,2022,Maintenance,Réparations,240000,23,23,Oui,Terminé,Technicien B,Tâche complétée avec succès.,50000
+Avion-18,2022,Développement,Simulation,150000,12,12,Oui,Terminé,Ingénieur D,Tâche complétée avec succès.,94000
+Avion-18,2022,Fabrication,Contrôle final,102000,8,8,Oui,Terminé,Technicien A,Tâche complétée avec succès.,540000
+Avion-18,2022,Conception,Validation de concept,19000,6,6,Oui,Terminé,Ingénieur B,Tâche complétée avec succès.,120000
+Avion-19,2023,Maintenance,Inspection,23000,8,8,Oui,Terminé,Technicien C,Finalisé en temps voulu.,41000
+Avion-19,2023,Développement,Prototype avancé,190000,18,18,Oui,Terminé,Ingénieur A,Finalisé en temps voulu.,110000
+Avion-19,2023,Fabrication,Assemblage,130000,14,14,Oui,Terminé,Technicien B,Finalisé en temps voulu.,700000
+Avion-19,2023,Conception,Validation de concept,21000,8,8,Oui,Terminé,Ingénieur C,Finalisé en temps voulu.,140000
+Avion-20,2024,Maintenance,Entretien de routine,6400,5,5,Oui,En cours,Technicien A,Tâche en cours de finalisation.,23000
+Avion-20,2024,Développement,Tests structurels,140000,16,16,Oui,En cours,Ingénieur B,Tâche en cours de finalisation.,78000
+Avion-20,2024,Fabrication,Test qualité,145000,9,9,Oui,Planifié,Technicien C,Tâche programmée dans le planning.,610000
+Avion-20,2024,Conception,Analyse préliminaire,21000,8,8,Oui,Planifié,Ingénieur D,Tâche programmée dans le planning.,155000
