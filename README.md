@@ -15,22 +15,26 @@ Bienvenue dans le projet data Aéroworld ! Ce dépôt regroupe toutes les ressou
    - Téléchargez le fichier pour une exploration locale ou une intégration dans votre environnement Power BI.  
    Fichier : `PowerBi Projet 13.pbix`
 
-3. **Vidéo explicative**  
+3. **Données fictives Aéroworld pour Dashboard Powerbi**
+   - Format : `.csv`
+   - Téléchargez le csv et importez le dans Powerbi pour avoir une simulation des visuels dans les dashboards.
+
+4. **Vidéo explicative**  
    - Une présentation claire et détaillée du fonctionnement du dashboard.  
    Fichier : `Vidéo_Présentation_Dashboards.mp4`
 
-4. **Documentation d'utilisation**  
+5. **Documentation d'utilisation**  
    - Guide PDF expliquant les fonctionnalités du dashboard, les KPI suivis, et les étapes d'actualisation des données.  
    Fichier : `Documentation_Dashboard.pdf`
 
-5. **Analyse des besoins métiers**  
+6. **Analyse des besoins métiers**  
    - Présentation PowerPoint analysant les besoins spécifiques d'Aéroworld en lien avec leurs domaines d'activité.  
    Fichier : `Besoins métiers Aéroworld.pptx`
 
-6. **Cahier des charges**  
+7. **Cahier des charges**  
    - Document PowerPoint décrivant les spécifications fonctionnelles et techniques définies pour le projet.  
    Fichier : `Cahier des charges Aéroworld.pptx`
-7. **Dashboard Profil et Compétences**
+8. **Dashboard Profil et Compétences**
    - Format : `.pbix` 
    - Téléchargez le fichier pour une exploration locale
    Fichier : `Tableau_de_bord_Profil_Compétences.pbix`
